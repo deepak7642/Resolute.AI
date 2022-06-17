@@ -11,3 +11,11 @@
 * **Data Source : - https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work .**
 
 * ***Here is glimpse of the solution file : https://colab.research.google.com/drive/1eLDtDbFKbhU5TP4MlRrEkwPMzNt0u1iQ?usp=sharing***
+
+**3) Predictive Analytics on "Customer Lifetime Value of Retail sector" (colab link) :** 
+
+* **Problem Statement : - An UK based retail company was curious to know about their customers, so that they can change their business strategies form which they can acquire more customers or to help their customers for retention, also few additional things wants to know that what's the customer worth in terms of Customer Lifetime Value wise, also some insights to know about UK based customers and Non-UK based customers. So that we can decide our approach for prediction wise.**
+
+* **Data Source : -  https://archive.ics.uci.edu/ml/datasets/online+retail**
+
+* ***Here is glimpse of the solution file : https://colab.research.google.com/drive/1hxNczZ0daMIj344QkWQqWhsdo2avaVvs?usp=sharing***
