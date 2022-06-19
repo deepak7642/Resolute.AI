@@ -44,6 +44,6 @@ png)
 
 
 
-**Linear Regression R squared: 89.13% (model accuracy came on the basis of "CustomerID", my approach for the modeling was to include all countries CustomerID)**
+**Linear Regression R squared: 89.13% (My approach for the modeling was to include all countries CustomerID, although UK have the dominating data but I choose to predict on overall basis)**
 
 * ***Here is glimpse of the solution file : https://colab.research.google.com/drive/1JK_ZAfFEDbaVf2gRIzvMaNpiZkWV0nLP?usp=sharing***
