@@ -18,4 +18,32 @@
 
 * **Data Source : -  https://archive.ics.uci.edu/ml/datasets/online+retail**
 
-* ***Here is glimpse of the solution file : https://colab.research.google.com/drive/1hxNczZ0daMIj344QkWQqWhsdo2avaVvs?usp=sharing***
+
+***Including UK in below graph*** 
+![newplot (8)](https://user-images.githubusercontent.com/75072300/174473042-8fc15d0c-5a55-44f3-be3a-ec3852f44e5b.png)
+
+***Not including UK in below graph***
+![newplot (9)](https://user-images.githubusercontent.com/75072300/174473064-d3c1cb9f-47af-4adf-ae5f-fca0b971e676.png)
+
+![newplot (10)](https://user-images.githubusercontent.com/75072300/174473189-c139bd2a-1305-4fd5-8989-87e4f48fea2c.png)
+png)
+
+## **Formulas :**
+
+* ***CLTV = ((Average Order Value x Purchase Frequency)/Churn Rate) x Profit margin***
+
+* ***Customer Value = Average Order Value x Purchase Frequency***
+
+* ***Average Order Value = Total Revenue / Total Number of Orders***
+
+* ***Purchase Frequency = Total Number of Orders / Total Number of Customers***
+
+* ***Customer Lifetime=1/Churn Rate***
+
+* ***Churn Rate= 1-Repeat Rate***
+
+
+
+**Linear Regression R squared: 89.13% (model accuracy came on the basis of "CustomerID", my approach for the modeling was to include all countries CustomerID)**
+
+* ***Here is glimpse of the solution file : https://colab.research.google.com/drive/1JK_ZAfFEDbaVf2gRIzvMaNpiZkWV0nLP?usp=sharing***
