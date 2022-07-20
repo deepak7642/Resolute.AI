@@ -1,4 +1,4 @@
-# **Resolute.AI (on-going internship)**
+# **Resolute.AI (completed internship)**
 ## **... as Data Analyst Engineer- Intern**
 
 
@@ -17,13 +17,6 @@
 * **Problem Statement : - An UK based retail company was curious to know about their customers, so that they can change their business strategies form which they can acquire more customers or to help their customers for retention, also few additional things wants to know that what's the customer worth in terms of Customer Lifetime Value wise, also some insights to know about UK based customers and Non-UK based customers. So that we can decide our approach for prediction wise.**
 
 * **Data Source : -  https://archive.ics.uci.edu/ml/datasets/online+retail**
-
-
-***Including UK in below graph*** 
-![newplot (8)](https://user-images.githubusercontent.com/75072300/174473042-8fc15d0c-5a55-44f3-be3a-ec3852f44e5b.png)
-
-***Not including UK in below graph***
-![newplot (9)](https://user-images.githubusercontent.com/75072300/174473064-d3c1cb9f-47af-4adf-ae5f-fca0b971e676.png)
 
 ![newplot (10)](https://user-images.githubusercontent.com/75072300/174473189-c139bd2a-1305-4fd5-8989-87e4f48fea2c.png)
 png)
