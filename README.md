@@ -2,7 +2,7 @@
 ## **... as Data Analyst Engineer- Intern**
 
 
-### **Work (links)- Bunch of tasks, I was doing there, are following : -** 
+### **Work (links)- Bunch of tasks done there, are following : -** 
 
 **1) PPT on "Predictive Analytics on Used cases in Different Industries" (Real Life based) : https://docs.google.com/presentation/d/1PvJIRo9rA1tnF4Q-U_J2M_XZI9WPWMQPBDjolz1b7Uk/edit?usp=sharing**
 
